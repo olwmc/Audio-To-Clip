@@ -6,4 +6,4 @@ Emulates the nice sharex function but on linux.
 You may have to play around with the ffmpeg flags to get it to work.
 
 ### Requires
-ffmpeg , xclip
+ffmpeg, xclip
